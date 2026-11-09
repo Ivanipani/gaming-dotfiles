@@ -1,0 +1,46 @@
+{
+  "HKCU\\Control Panel\\Keyboard": {
+    "KeyboardDelay": {
+      "data": "1",
+      "type": "REG_SZ"
+    },
+    "KeyboardSpeed": {
+      "data": "31",
+      "type": "REG_SZ"
+    }
+  },
+  "HKCU\\Control Panel\\Mouse": {
+    "DoubleClickSpeed": {
+      "data": "500",
+      "type": "REG_SZ"
+    },
+    "MouseSensitivity": {
+      "data": "10",
+      "type": "REG_SZ"
+    },
+    "MouseSpeed": {
+      "data": "1",
+      "type": "REG_SZ"
+    },
+    "MouseThreshold1": {
+      "data": "6",
+      "type": "REG_SZ"
+    },
+    "MouseThreshold2": {
+      "data": "10",
+      "type": "REG_SZ"
+    },
+    "SmoothMouseXCurve": {
+      "data": "0000000000000000156E000000000000004001000000000029DC0300000000000000280000000000",
+      "type": "REG_BINARY"
+    },
+    "SmoothMouseYCurve": {
+      "data": "0000000000000000FD11010000000000002404000000000000FC12000000000000C0BB0100000000",
+      "type": "REG_BINARY"
+    },
+    "SwapMouseButtons": {
+      "data": "0",
+      "type": "REG_SZ"
+    }
+  }
+}

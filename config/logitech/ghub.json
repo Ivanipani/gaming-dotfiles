@@ -1,0 +1,1793 @@
+{
+  "applications": {
+    "applications": [
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "categoryColors": [
+          {
+            "hex": "#ff43ee",
+            "tag": "Editing"
+          },
+          {
+            "hex": "#eeff43",
+            "tag": "Productivity"
+          },
+          {
+            "hex": "#43eeff",
+            "tag": "Windows"
+          },
+          {
+            "hex": "#ff4390",
+            "tag": "Navigation"
+          }
+        ],
+        "commands": [
+          {
+            "cardId": "151aee33-fe2b-4d00-82ef-63f7208d3b06",
+            "category": "Editing",
+            "name": "Cut"
+          },
+          {
+            "cardId": "20612c80-9d50-4a95-afa1-026fd1f1183b",
+            "category": "Editing",
+            "name": "Copy"
+          },
+          {
+            "cardId": "1f0183ac-61d4-4cca-be02-9e72febcccd6",
+            "category": "Editing",
+            "name": "Paste"
+          },
+          {
+            "cardId": "7e89d062-d8c0-457b-8cdc-b312383b2345",
+            "category": "Editing",
+            "name": "Undo"
+          },
+          {
+            "cardId": "2d01ab33-c42f-489a-8fe4-e4df3b116e64",
+            "category": "Editing",
+            "name": "Redo"
+          },
+          {
+            "cardId": "872a663f-d260-4a23-b83e-1fb36f46fab7",
+            "category": "Editing",
+            "name": "Select All"
+          },
+          {
+            "cardId": "a75001d0-7d19-4b61-8c3e-3dadf799f209",
+            "category": "Editing",
+            "name": "Save"
+          },
+          {
+            "cardId": "f9356500-dc13-4b46-833b-24539b00cc18",
+            "category": "Editing",
+            "name": "New"
+          },
+          {
+            "cardId": "57af12de-0759-4e04-9316-ca010243e62c",
+            "category": "Editing",
+            "name": "Open"
+          },
+          {
+            "cardId": "3244d53c-6b9b-4797-ae78-3509b6447345",
+            "category": "Editing",
+            "name": "New tab"
+          },
+          {
+            "cardId": "53150a0d-b284-4d14-a74f-4c03f54cbd6a",
+            "category": "Editing",
+            "name": "Close tab"
+          },
+          {
+            "cardId": "0672aa50-5f50-4e08-8a58-8d70c32f6389",
+            "category": "Editing",
+            "name": "Zoom In"
+          },
+          {
+            "cardId": "771e3ec7-db12-4b88-b658-553b47f192d1",
+            "category": "Editing",
+            "name": "Zoom Out"
+          },
+          {
+            "cardId": "f4e75fa9-3dc3-4ebd-8cf5-128e130a49ce",
+            "category": "Editing",
+            "name": "Zoom Reset"
+          },
+          {
+            "cardId": "37aeb58a-1de9-4dc2-a0c4-b59dbc8d3cda",
+            "category": "Productivity",
+            "name": "Switch Between Apps"
+          },
+          {
+            "cardId": "96dc0c2d-ad54-4199-9b96-7b891bb6d660",
+            "category": "Productivity",
+            "name": "Exit Active App"
+          },
+          {
+            "cardId": "de876e9d-9512-4933-91a1-f6881dd7ff61",
+            "category": "Productivity",
+            "name": "Cycle Through Apps"
+          },
+          {
+            "cardId": "17b5b126-aa18-4cfd-b6d2-0ec198844f62",
+            "category": "Productivity",
+            "name": "Open Task Manager"
+          },
+          {
+            "cardId": "9618f77e-2934-4aea-8a1a-77a1b706d04d",
+            "category": "Productivity",
+            "name": "Open Start"
+          },
+          {
+            "cardId": "fa370cb2-19cd-4460-8f5e-2cd1bd9e94f3",
+            "category": "Windows",
+            "name": "Lock PC"
+          },
+          {
+            "cardId": "d8e463d8-0681-4cc0-8b47-5ab28a245623",
+            "category": "Windows",
+            "name": "Hide/Show Desktop"
+          },
+          {
+            "cardId": "bde2f35d-c619-4691-aae2-11cae6044697",
+            "category": "Windows",
+            "name": "Open Action Center"
+          },
+          {
+            "cardId": "e273fc38-bdd0-47af-85d0-6ebe8fc16c99",
+            "category": "Windows",
+            "name": "Set Focus in Notification Area"
+          },
+          {
+            "cardId": "77fdd9e9-b6e7-4ee2-8dc0-cb75fbd51181",
+            "category": "Windows",
+            "name": "Open File Explorer"
+          },
+          {
+            "cardId": "49f672fe-a881-4e2d-b03a-185a59c3f871",
+            "category": "Windows",
+            "name": "Open Windows Game Bar"
+          },
+          {
+            "cardId": "b7f56da7-d73f-4b52-9eb1-563c411f52ad",
+            "category": "Windows",
+            "name": "Open Windows Setting"
+          },
+          {
+            "cardId": "031a10e8-4da3-4a77-a9a9-9b76e29b490a",
+            "category": "Windows",
+            "name": "Open Connect Quick Action"
+          },
+          {
+            "cardId": "549e15cc-ca76-4a7a-8c9d-4eba94184487",
+            "category": "Windows",
+            "name": "Minimize All Windows"
+          },
+          {
+            "cardId": "af5dd268-a6c2-4af8-b7f9-fc931e6fd20e",
+            "category": "Windows",
+            "name": "Run dialog"
+          },
+          {
+            "cardId": "968c7940-a0ff-46f3-8904-5bf8959202d1",
+            "category": "Windows",
+            "name": "Open Search"
+          },
+          {
+            "cardId": "abc06891-3eea-4bf1-a645-b6dc46fc0b59",
+            "category": "Windows",
+            "name": "Cycle Task Bar Apps"
+          },
+          {
+            "cardId": "42666dbf-95d8-4e14-b825-39cd45d37d25",
+            "category": "Windows",
+            "name": "Open Ease of Access Center"
+          },
+          {
+            "cardId": "97aa01d6-a093-40c1-b454-39cbede1fdcb",
+            "category": "Windows",
+            "name": "Open Quick Links"
+          },
+          {
+            "cardId": "69e99a6f-b229-451c-90c5-978cfb5a3659",
+            "category": "Windows",
+            "name": "Open Emoji Panel"
+          },
+          {
+            "cardId": "87b68a21-afb8-491f-bb58-b102d43ddc5c",
+            "category": "Windows",
+            "name": "Open Task View"
+          },
+          {
+            "cardId": "a5bb41b9-9610-49cf-a7b8-886cd572041d",
+            "category": "Windows",
+            "name": "Open Narrator"
+          },
+          {
+            "cardId": "13450c2c-7a59-4bbd-878a-3d06f7695733",
+            "category": "Windows",
+            "name": "Open Magnifier"
+          },
+          {
+            "cardId": "4d0362d1-6751-4a5a-b03d-01526932ecb8",
+            "category": "Windows",
+            "name": "Open Copilot"
+          },
+          {
+            "cardId": "c9042ff2-5296-4467-b169-210a17f169b4",
+            "category": "Navigation",
+            "name": "Go Back"
+          },
+          {
+            "cardId": "1abd83d9-ad75-4895-a4f6-4a85a2cbc643",
+            "category": "Navigation",
+            "name": "Go Forward"
+          },
+          {
+            "cardId": "e2e55ff4-4e6c-47f9-a713-46884f14d5f1",
+            "category": "Windows",
+            "name": "Next Desktop"
+          },
+          {
+            "cardId": "85f04747-ad41-4d9c-8488-b37778f24245",
+            "category": "Windows",
+            "name": "Previous Desktop"
+          },
+          {
+            "cardId": "772316c3-100b-45df-bd70-cdb17a8e233c",
+            "category": "Editing",
+            "name": "Next Tab"
+          },
+          {
+            "cardId": "9073af35-5d6a-4661-b4b5-8743cdb72ab6",
+            "category": "Editing",
+            "name": "Previous Tab"
+          }
+        ],
+        "databaseId": "420fd454-0c36-499d-bde4-146823b16147",
+        "name": "APPLICATION_NAME_DESKTOP",
+        "version": 7
+      }
+    ]
+  },
+  "cards": {
+    "cards": [
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_CartoonRun",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\9df3f91e41e041e9375ba9faef4bd8f8.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_CartoonRun"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "94a6aafb-4b08-42b8-9325-fffeef1e1d9f",
+        "macro": {
+          "action": {
+            "actionId": "slobs_stream_toggle",
+            "integrationId": "7264dd41c5d6c6f6"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_SLOBS_TOGGLE_STREAM"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_RU_CATEGORY_Expression_Sample_Wow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\0ecb5b610d4b42808bde3324204fe19a.mp3",
+            "category": "PRESET_EXPRESSIONS_RU_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Wow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "6dba3d14-11aa-4910-bbf8-5f3d396f40c9",
+        "macro": {
+          "audioSettings": {
+            "cardId": "d73469b2-490c-49d1-aa53-00ace0d6e5f0",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "08_BROADCASTER_1"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_RU_CATEGORY_Expression_Sample_What",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\849e6d3a73364704845d5622dbca4b9b.mp3",
+            "category": "PRESET_EXPRESSIONS_RU_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_What"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "52e92e8f-2582-47e5-94d3-d18f9764ca6d",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "erroneousParameters": {
+              "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+            },
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "hffhbjnafafjnehejohpkfhjdenpifhihebpkhni",
+              "command_selection": "ow_replay_show_last"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_REPLAY_SHOW_LAST"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "19dc2cf0-20f5-40d8-bcc4-287ac70d4d9c",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "erroneousParameters": {
+              "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+            },
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "hffhbjnafafjnehejohpkfhjdenpifhihebpkhni",
+              "command_selection": "ow_replay_capture"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_REPLAY_CAPTURE"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "360f289e-9105-4fcb-b93f-a984da4071a4",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "erroneousParameters": {
+              "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+            },
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "lnhebboianabbebhnpoodokcdcnmikacoeijpjfe",
+              "command_selection": "ow_take_screenshot"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_TAKE_SCREENSHOT"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "23a85652-6d86-461e-94e9-a4e56bc4bad3",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "erroneousParameters": {
+              "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+            },
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "lnhebboianabbebhnpoodokcdcnmikacoeijpjfe",
+              "command_selection": "ow_capture_video"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_CAPTURE_VIDEO"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "9963b5e4-3243-438d-8239-c9188387a8e8",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "erroneousParameters": {
+              "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+            },
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "oepmnephgakhodlemnladfmcnhfhbfdnbgolmcok",
+              "command_selection": "ow_stream_toggle"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_STREAM_TOGGLE"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "4e57606c-1822-469d-9cd5-92d219bff84d",
+        "macro": {
+          "action": {
+            "actionId": "slobs_recording_toggle",
+            "integrationId": "7264dd41c5d6c6f6"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_SLOBS_TOGGLE_RECORDING"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b9dfbc9a-4adc-40c2-baf3-b1af7bd282f2",
+        "macro": {
+          "action": {
+            "actionId": "discord_voice_mute",
+            "integrationId": "9f1134cfb89202f3"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_DISCORD_VOICE_MUTE"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "318d1fb6-d40f-418e-83c4-dd27b0eeb4e1",
+        "macro": {
+          "action": {
+            "actionId": "discord_voice_deafen",
+            "integrationId": "9f1134cfb89202f3"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_DISCORD_VOICE_DEAFEN"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "cc784b42-5647-4c1e-939b-e1b9f346215f",
+        "macro": {
+          "action": {
+            "actionId": "obs_stream_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_TOGGLE_STREAM"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "7239b934-ae23-40dc-bae6-7e07e522cdd9",
+        "macro": {
+          "action": {
+            "actionId": "obs_recording_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_TOGGLE_RECORDING"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "525df078-8073-4d5c-a848-cef00342a07c",
+        "macro": {
+          "audioSettings": {
+            "cardId": "330fe494-5ff8-420b-8fd6-17b962874547",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "12_Classic Radio"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "79064f3b-b970-4b96-824c-930bf7a29585",
+        "macro": {
+          "action": {
+            "actionId": "obs_buffer_save",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_SAVE_BUFFER"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "bd1951fa-83dd-4ab6-92d8-5ea1a37afb7a",
+        "macro": {
+          "action": {
+            "actionId": "obs_desktop_mute_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_DESKTOP_MUTE_TOGGLE"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPS_CATEGORY_Expression_Sample_Hooray",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\06350705304a4e1aabd90af75dfa1ce6.mp3",
+            "category": "PRESET_EXPRESSIONS_SPS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hooray"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b03dc91a-902b-4ef7-a883-2f08fdd1621f",
+        "macro": {
+          "action": {
+            "actionId": "obs_mic_mute_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_MIC_MUTE_TOGGLE"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_IT_CATEGORY_Expression_Sample_Huh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\8cb20178a81a42c697ea459680a6c774.mp3",
+            "category": "PRESET_EXPRESSIONS_IT_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Huh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_SouthernMoonlight",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\04fde0bab2174eaca0e330fc8147a78d.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_SouthernMoonlight"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "8afdf22e-2f73-4b76-ad18-96367255a0e7",
+        "macro": {
+          "audioSettings": {
+            "cardId": "a6cfd1cf-93e4-48fb-99a5-bb64121ec7d0",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "60_Synth Robot"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_AirHorn",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\4a399276b8fe46a09bd45315d3129a81.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_AirHorn"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Applause",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\3a5b18a6849e440e91e6c8320ef54d29.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Applause"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_BattleHorn",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\e78904d0ca0848ae8a6860444d67e69e.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_BattleHorn"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Bleep",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\ffaf8cabb7e59dd60df734739222683d.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Bleep"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Correct",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\a2460c4feeb84669af34e889e82447d1.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Correct"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CATEGORY_Expression_Sample_Huh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\5c41c26af0d8479a82c41d3e44e30a5f.mp3",
+            "category": "PRESET_EXPRESSIONS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Huh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_DistortedLaugh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\922de89ecc5c4db5a6ae40f5fc53c6c6.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_DistortedLaugh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_DrawSword",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\684fd5d23c4246aa9f82c3b418feb028.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_DrawSword"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Failure",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\434bdf030248ff9905584f2b6872cf4c.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Failure"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_GameOver",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\c25f883acd504a40bd65b599ffbade45.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_GameOver"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Gasp",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\5e82e59c6449426b9c3ae056bfa3131d.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Gasp"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Growl",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\c5ef34a1201b43b28f14f3e9a41e5a9b.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Growl"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Jump",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\983917f5f1e3433991851c5911996db4.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Jump"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Laser",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\35190fcdd4b24ad6bb27c8bea4635ed5.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Laser"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_Raspberry",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\7f9ff06d6cf84600b1606a7d2fdcd1b1.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_Raspberry"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_SOUND_FX_CATEGORY_Generic_Sample_TKO",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\3b4c3ba3b792f2d1018fd8ba52bec124.mp3",
+            "category": "PRESET_SOUND_FX_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Generic_Sample_TKO"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CATEGORY_Expression_Sample_Hooray",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\90e53b0353cb4c4da61f09745453b91e.mp3",
+            "category": "PRESET_EXPRESSIONS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hooray"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_AirRaid",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\5708b6579e0c4fcc82f535dabf7616ac.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_AirRaid"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_EasternSands",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\4ba76fe6d2ea4e89a5bbce21c54145d6.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_EasternSands"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_EnchantedMeadow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\7fc28a87e74a45fe9f37f37762e12e88.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_EnchantedMeadow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_HauntedHouse",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\2db0250d702845da832afa5c5678825b.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_HauntedHouse"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_Subaquatic",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\efea702bdbf24666968455e90f3d96a3.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_Subaquatic"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_AMBIENT_SOUNDS_CATEGORY_Ambient_Sample_TheCatacombs",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\56946e2ee512426a80b294370da33b5d.mp3",
+            "category": "PRESET_AMBIENT_SOUNDS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Ambient_Sample_TheCatacombs"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CATEGORY_Expression_Sample_ByeBye",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\7bb1dd01d9cc454a985b0103f6ed649b.mp3",
+            "category": "PRESET_EXPRESSIONS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_ByeBye"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CATEGORY_Expression_Sample_Hello",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\09343fb6072844e8abce6f82298e1a5e.mp3",
+            "category": "PRESET_EXPRESSIONS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hello"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CATEGORY_Expression_Sample_What",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\aeb290bc5bcf43799f098d14fd9fb25e.mp3",
+            "category": "PRESET_EXPRESSIONS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_What"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CATEGORY_Expression_Sample_Wow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\2d1948c43f50407aac85e3397f9a5f3b.mp3",
+            "category": "PRESET_EXPRESSIONS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Wow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CH_CATEGORY_Expression_Sample_ByeBye",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\7745ec25e7834c6aadb690656096854e.mp3",
+            "category": "PRESET_EXPRESSIONS_CH_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_ByeBye"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CH_CATEGORY_Expression_Sample_Hello",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\4e60869b36ec44d8aff04c7eb31fddcc.mp3",
+            "category": "PRESET_EXPRESSIONS_CH_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hello"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CH_CATEGORY_Expression_Sample_Hooray",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\5137b3d32cba409e82fcfddad4e0cef5.mp3",
+            "category": "PRESET_EXPRESSIONS_CH_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hooray"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CH_CATEGORY_Expression_Sample_Huh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\edfce04e5ad044bba2217d6a0f57460c.mp3",
+            "category": "PRESET_EXPRESSIONS_CH_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Huh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CH_CATEGORY_Expression_Sample_What",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\eb208c2caa524f35bb9d9ca6fa340afd.mp3",
+            "category": "PRESET_EXPRESSIONS_CH_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_What"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "a1126cf4-be2a-453b-8ffe-3a40674a8cbf",
+        "macro": {
+          "audioSettings": {
+            "cardId": "c17c3149-85c0-4d2d-90ac-5f2c6f028db4",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "26_Electrobeast"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_CH_CATEGORY_Expression_Sample_Wow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\e4e66049f745436c8315002c695634f4.mp3",
+            "category": "PRESET_EXPRESSIONS_CH_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Wow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_IT_CATEGORY_Expression_Sample_ByeBye",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\44db1ec4d74043aebecf2bd481b4dd46.mp3",
+            "category": "PRESET_EXPRESSIONS_IT_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_ByeBye"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_IT_CATEGORY_Expression_Sample_Hello",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\8a88954c88d24bf8aeb8ea796668eacf.mp3",
+            "category": "PRESET_EXPRESSIONS_IT_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hello"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_IT_CATEGORY_Expression_Sample_Hooray",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\f1eb9c54fdad45e1944bb4a1ba1b385b.mp3",
+            "category": "PRESET_EXPRESSIONS_IT_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hooray"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPS_CATEGORY_Expression_Sample_Wow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\896ef5840b1e4130a5ef1dacac98a818.mp3",
+            "category": "PRESET_EXPRESSIONS_SPS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Wow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_IT_CATEGORY_Expression_Sample_What",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\e52e477a8a114516b2527155c8ac73d9.mp3",
+            "category": "PRESET_EXPRESSIONS_IT_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_What"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_IT_CATEGORY_Expression_Sample_Wow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\27c0c980d220439bb964fad6629817ef.mp3",
+            "category": "PRESET_EXPRESSIONS_IT_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Wow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_RU_CATEGORY_Expression_Sample_ByeBye",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\e20eb994fd7d4ae8899fb2f029858138.mp3",
+            "category": "PRESET_EXPRESSIONS_RU_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_ByeBye"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_RU_CATEGORY_Expression_Sample_Hello",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\6ee0196b1b4f434e99b518b50b0adb9f.mp3",
+            "category": "PRESET_EXPRESSIONS_RU_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hello"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_RU_CATEGORY_Expression_Sample_Hooray",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\c7b4b5f8a96b4119891e6864d69ea644.mp3",
+            "category": "PRESET_EXPRESSIONS_RU_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hooray"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_RU_CATEGORY_Expression_Sample_Huh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\baecdb102cb742569835cb1f3af6c8dc.mp3",
+            "category": "PRESET_EXPRESSIONS_RU_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Huh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPL_CATEGORY_Expression_Sample_ByeBye",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\dbaaba6fcf2842e59c6753b59cd36a44.mp3",
+            "category": "PRESET_EXPRESSIONS_SPL_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_ByeBye"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "a42376a6-7e3c-46e6-9b75-e974e4911637",
+        "macro": {
+          "audioSettings": {
+            "cardId": "48bbf039-f2ef-4028-ba1b-45c2230734d6",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "58_Subconscious"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPL_CATEGORY_Expression_Sample_Hello",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\c3e0e8d94a6542ffb8d9754dbe17336c.mp3",
+            "category": "PRESET_EXPRESSIONS_SPL_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hello"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPL_CATEGORY_Expression_Sample_Hooray",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\bbc6937f81814ea79519995d54e9034a.mp3",
+            "category": "PRESET_EXPRESSIONS_SPL_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hooray"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPL_CATEGORY_Expression_Sample_Huh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\de9e75f647bc4e728598457e55621184.mp3",
+            "category": "PRESET_EXPRESSIONS_SPL_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Huh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPL_CATEGORY_Expression_Sample_What",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\4b3c9912a179431a818e66cf4345bc3c.mp3",
+            "category": "PRESET_EXPRESSIONS_SPL_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_What"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPL_CATEGORY_Expression_Sample_Wow",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\32a065756cc84fa08a9e956f0a4844fd.mp3",
+            "category": "PRESET_EXPRESSIONS_SPL_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Wow"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPS_CATEGORY_Expression_Sample_ByeBye",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\f042983bbe3d4083ab1b43da235f3b3f.mp3",
+            "category": "PRESET_EXPRESSIONS_SPS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_ByeBye"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPS_CATEGORY_Expression_Sample_Hello",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\a74dbb64bd894899ad0e5aa4f8fdda75.mp3",
+            "category": "PRESET_EXPRESSIONS_SPS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Hello"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPS_CATEGORY_Expression_Sample_Huh",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\83302a3b2fdf43a8b2ebfd5fd2f89937.mp3",
+            "category": "PRESET_EXPRESSIONS_SPS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_Huh"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "PRESET_EXPRESSIONS_SPS_CATEGORY_Expression_Sample_What",
+        "macro": {
+          "audioSample": {
+            "audioFilePath": "C:\\ProgramData\\LGHUBData\\audio_samples\\a508c2a3370f4c2d8bcdae9501197d08.mp3",
+            "category": "PRESET_EXPRESSIONS_SPS_CATEGORY",
+            "playOption": "ONE_SHOT"
+          },
+          "type": "AUDIO_SAMPLE"
+        },
+        "name": "Expression_Sample_What"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "bd0d0b1a-cccb-44c7-b2f3-f8e1230c8e06",
+        "macro": {
+          "audioSettings": {
+            "cardId": "abd06676-0cd3-47fd-889f-e1ad05ffd46b",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "34_Gender Shift - Female"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b42d8745-d9c6-4315-a910-93138e39c2d4",
+        "macro": {
+          "audioSettings": {
+            "cardId": "ed73fa43-4392-4731-b8fb-200486a9349f",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "64_Whisper"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "d2617261-a616-464b-9021-5d311dcd9aec",
+        "macro": {
+          "audioSettings": {
+            "cardId": "dc4c2fde-77a8-4cc8-9b14-1ed9cf7e5d31",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "30_FM"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "d0b05715-5444-49d9-bf0b-ec768ecf370f",
+        "macro": {
+          "audioSettings": {
+            "cardId": "30e36a5c-ddfa-495c-a0ca-7a13ecdc8ef2",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "50_Robot"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "a9613a4c-129c-47d8-9f8e-74db5760b8f7",
+        "macro": {
+          "audioSettings": {
+            "cardId": "9c2dd92f-d514-4243-b0f1-a6433826cf93",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "46_Low Voice - Loud"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b5731ae4-0023-4c93-ad82-b788c1918866",
+        "macro": {
+          "audioSettings": {
+            "cardId": "c8bd8769-cf62-492d-a36a-268231046522",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "42_High Voice - Loud"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "2140b0e5-6bf7-455f-bc76-d0eadb4391fb",
+        "macro": {
+          "audioSettings": {
+            "cardId": "2ce886a1-4b5a-4120-beef-0c20ef83f27c",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "44_High Voice - Soft"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b92be8f2-a081-4389-95cc-6bd5c54adf8a",
+        "macro": {
+          "audioSettings": {
+            "cardId": "9d7a5c6c-5a5d-40cf-afd4-cf485471a06c",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "62_Warm and Vintage"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b5d2c206-b069-4f29-962c-eee6cd78f719",
+        "macro": {
+          "audioSettings": {
+            "cardId": "6ea78a9d-afda-40f0-b990-0280ba50830e",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "16_Crazy Voice"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "b3cf391c-1747-4da8-99f2-24b4112a54a2",
+        "macro": {
+          "audioSettings": {
+            "cardId": "8c53788f-a79c-48a9-af74-121df5b5815e",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "18_Crisp and Warm"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "aeb9a53c-15d7-4f41-ba75-1d5037cbd599",
+        "macro": {
+          "audioSettings": {
+            "cardId": "6fc1bce4-a16f-46a8-a50e-bef12831d522",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "32_Fishbowl"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "97ae1529-8353-43bf-ad52-db62b8747090",
+        "macro": {
+          "audioSettings": {
+            "cardId": "cf9cb882-3115-4e2c-8c50-97af9593d836",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "00_FX_OFF"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "430c54b5-8918-46d9-a33a-e05848d704c3",
+        "macro": {
+          "audioSettings": {
+            "cardId": "06e3107e-51a6-4758-8e79-5cd29d9123b0",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "48_Low Voice - Soft"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "65e9f684-5c44-4fe9-b879-2efdef1acc44",
+        "macro": {
+          "audioSettings": {
+            "cardId": "532e6359-bca2-4964-a001-04d6f76142be",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "06_Bass Boost"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "16477a37-c163-4074-96fc-aff5a5e2a71d",
+        "macro": {
+          "audioSettings": {
+            "cardId": "be008a5d-4ce8-446f-a366-2cd3e5670b77",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "66_Witness Protection"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "75e9d322-cc38-4628-a183-e62080e3bd02",
+        "macro": {
+          "audioSettings": {
+            "cardId": "8b5723be-2751-4f9f-9850-2347d4a5f922",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "20_DJ Robot"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "81101626-d884-4a38-baef-7012ada6b2f5",
+        "macro": {
+          "audioSettings": {
+            "cardId": "7f22984a-c455-41d9-ab1c-8a096abda7f4",
+            "playOption": "TOGGLE",
+            "type": "BLUEVOICE_2"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "02_AM"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "61bf85ba-ab77-4284-b3dd-8eb1a3650691",
+        "macro": {
+          "audioSettings": {
+            "cardId": "c46b9852-df01-487a-b9ef-d1fe78b0130e",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "52_Sentinel"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "bdcc33ee-c031-4dd3-9cbc-b6f32467131b",
+        "macro": {
+          "audioSettings": {
+            "cardId": "c63828da-2d6f-4992-8639-11cd286fb277",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "28_Ethereal"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "8b094fc5-69ca-4f14-94bd-f2ab2041fc82",
+        "macro": {
+          "audioSettings": {
+            "cardId": "19b1f3aa-1e36-4d72-859c-0dd6a94a49b5",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "22_Demon"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "a035b2fd-58d6-4128-b5b8-fa784701654c",
+        "macro": {
+          "audioSettings": {
+            "cardId": "aadb8990-ef8b-4442-b580-9a297b001b45",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "56_Split Personality"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "ddc684e2-ee0d-427c-a1af-8d77941e177b",
+        "macro": {
+          "audioSettings": {
+            "cardId": "b99d7e83-8e9e-4627-a314-58f917dc5212",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "40_Helium Chipmunk"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "fbc52e66-cc03-42cc-9a7c-19e43c908cb2",
+        "macro": {
+          "audioSettings": {
+            "cardId": "df923607c-f857-449e-aa20-1eeb165a2273",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "36_Gender Shift - Male"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "18446091-454c-4412-8636-d05333b8d5b7",
+        "macro": {
+          "audioSettings": {
+            "cardId": "21b38cf0-b26b-4a9e-a50e-dbcd974c5f4a",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "04_Alien"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "edbeb0e0-7066-430e-992c-b3c6a03d95d7",
+        "macro": {
+          "audioSettings": {
+            "cardId": "560bd831-30a9-4cd6-b06d-3710ba86ff65",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "24_Dream"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "a33b8fb2-ba56-49c5-a409-b7891667a976",
+        "macro": {
+          "audioSettings": {
+            "cardId": "77e6caa6-f32e-4e77-802c-7f1d06797aa4",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "38_Haunted"
+      },
+      {
+        "attribute": "MOUSE_SETTINGS",
+        "id": "bd3aaa12-9af7-4bbb-842b-e1362b514466",
+        "mouseSettings": {
+          "dpiTable": {
+            "activeDpi": 1600,
+            "defaultDpi": 800,
+            "levels": [
+              400,
+              800,
+              1600,
+              3200,
+              6400
+            ],
+            "shiftDpi": 400
+          },
+          "reportRate": {
+            "value": 1000
+          }
+        },
+        "name": "DEFAULT_CARD_NAME_MOUSE_SETTINGS",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147"
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "c3efae98-3295-4cf0-af8a-59b664957a07",
+        "macro": {
+          "audioSettings": {
+            "cardId": "21592aa7-a887-4501-97f4-a0b4c03d9da1",
+            "playOption": "TOGGLE",
+            "type": "EFFECT"
+          },
+          "type": "AUDIO_SETTINGS"
+        },
+        "name": "54_Sinister"
+      }
+    ]
+  },
+  "profiles": {
+    "profiles": [
+      {
+        "activeForApplication": true,
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "assignments": [
+          {
+            "cardId": "e3bda5aa-6e2f-4d25-a2c6-ccc4d8ca7759",
+            "slotId": "yeti-classic_microphone_settings"
+          },
+          {
+            "cardId": "b27b7b76-aa70-48c6-8563-1c0b8caff742",
+            "slotId": "yeti-classic_acoustics"
+          },
+          {
+            "cardId": "d73469b2-490c-49d1-aa53-00ace0d6e5f0",
+            "slotId": "yeti-classic_blue_voice_2_settings"
+          },
+          {
+            "cardId": "05525ad1-71a4-45c4-aafa-d56ad1429f32",
+            "slotId": "yeti-classic_equalizer"
+          },
+          {
+            "cardId": "cf9cb882-3115-4e2c-8c50-97af9593d836",
+            "slotId": "yeti-classic_audio_effects_settings"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g4_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-040300000000",
+            "slotId": "g502wireless_g6_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g2_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-040b00000000",
+            "slotId": "g502wireless_g11_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-040100000000",
+            "slotId": "g502wireless_g8_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020300000000",
+            "slotId": "g502wireless_g3_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020100000000",
+            "slotId": "g502wireless_g1_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g3_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g7_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g1_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090600000000",
+            "slotId": "g502wireless_g9_m1"
+          },
+          {
+            "cardId": "bd3aaa12-9af7-4bbb-842b-e1362b514466",
+            "slotId": "g502wireless_mouse_settings"
+          },
+          {
+            "cardId": "9b85425b-8c71-4b15-808c-1206407f0000",
+            "slotId": "g502wireless_lighting_setting_firmware"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020200000000",
+            "slotId": "g502wireless_g2_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020400000000",
+            "slotId": "g502wireless_g4_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g5_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g6_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g11_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g9_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-040c00000000",
+            "slotId": "g502wireless_g10_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020500000000",
+            "slotId": "g502wireless_g5_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-040200000000",
+            "slotId": "g502wireless_g7_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g10_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g502wireless_g8_m1_shifted"
+          }
+        ],
+        "id": "420fd454-0c36-499d-bde4-146823b16147",
+        "name": "PROFILE_NAME_DEFAULT"
+      }
+    ]
+  }
+}

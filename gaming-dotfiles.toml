@@ -1,0 +1,17 @@
+# Desired state lives in config/; `just capture` pulls live settings in, `just apply` pushes them out.
+
+[league]
+install_dir = 'F:\league\Riot Games\League of Legends'
+active_profile = "default"   # config/league/<profile>/ applied to the game
+lock = true                  # read-only files: every account gets these settings at login
+sync_to_app = true           # mirror config/league/* into league-config-manager profiles
+
+[logitech]
+enabled = true
+
+[razer]
+enabled = true
+exports = ["tartarus_v2.synapse4"]
+
+[windows]
+enabled = true

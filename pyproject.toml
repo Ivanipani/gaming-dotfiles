@@ -1,0 +1,17 @@
+[project]
+name = "gaming-dotfiles"
+version = "0.1.0"
+description = "Gaming peripheral and League of Legends settings as code"
+readme = "README.md"
+authors = [
+    { name = "Ivan Perdomo", email = "iperdomo2016@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+gaming-dotfiles = "gaming_dotfiles:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
